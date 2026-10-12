@@ -20,3 +20,6 @@ Open `index.html` in a browser. For best testing, use a simple local web server,
 
 ## Hosting note
 This is a static website and can be deployed to a static hosting service. The domain registration itself is not web hosting. Connect the custom domain only after choosing the hosting provider, and preserve email-related DNS records.
+
+
+Brand assets: `agastya-logo.png` is the letterhead logo used in the website header and footer. `agastya-logo-mark.png` is used as the browser favicon.
